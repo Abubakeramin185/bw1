@@ -1,0 +1,23 @@
+body{
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    margin: 0;
+    background-color: #2d2029;
+}
+
+#container{
+    text-align: center;
+    border-radius: 10px;
+    padding: 20px;
+}
+.button{
+    padding: 10px 20px;
+    font-size: 2.1em;
+    border: none;
+    border-radius: 5px;
+    background-color: #900080;
+
+}
